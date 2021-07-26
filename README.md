@@ -1,4 +1,4 @@
-## To Do List in JavaScript
+## Peer-review - To Do List in JavaScript
 
 This is the second project in the Microverse's JavaScript module.
 
@@ -14,7 +14,7 @@ This is the second project in the Microverse's JavaScript module.
 ### Learning objectives
 - Use webpack to bundle JavaScript.
 - Learn how to use proper ES6 syntax.
-- Use ES6 modules to write modular JavaScript.
+- Use ES6 modules to write modular JavaScript
 
 
 ## Built With
